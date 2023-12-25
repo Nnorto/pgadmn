@@ -24,7 +24,8 @@
 
 1. Установите зависимости: `npm install`.
 2. Запустите проект: `npm start`.
-3. Откройте [http://localhost:3000](http://localhost:3000) в вашем браузере.
+3. Запустите сервер `json-server --watch db.json --port 3001`.
+4. Откройте [http://localhost:3000](http://localhost:3000) в вашем браузере.
 
 ## Технологии
 
